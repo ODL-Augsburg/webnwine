@@ -150,6 +150,9 @@ body {
     background-image: url(../../lib/images/cert-logo-dev-plus.png); }
 
 .reveal blockquote p {
+    margin-bottom: 40px; }
+
+.reveal blockquote p:last-child {
     margin-bottom: 0; }
 
 .reveal blockquote small {
